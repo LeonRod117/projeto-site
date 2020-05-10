@@ -1,2 +1,2 @@
 # projeto-site
- Projeto de Site Fictício para publicação no Gitbuh
+ Projeto de Site Fictício para publicação no Github
